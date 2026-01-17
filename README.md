@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Deep
 
-<!--
-**Deep7179/Deep7179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Competitive Programming
+- 🔹 **Codeforces**: https://codeforces.com/profile/deepx241
+- 🔹 **LeetCode**: https://leetcode.com/u/deep__18/
 
-Here are some ideas to get you started:
+### 💻 Programming
+- C++
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools
+- Git & GitHub
+- MySQL (Workbench)
+- Logisim
+- SolidWorks
