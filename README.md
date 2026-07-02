@@ -1,32 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Deep+Kevadiya;Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Deep+Kevadiya;Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Deep%20Kevadiya&fontSize=55&fontColor=ffffff&color=0:0D1117,100:2563EB&animation=fadeIn"/>
 
 </div>
 
 ---
 
-<div align="center">
+<h3 align="center">
+Competitive Programmer • Full Stack Developer • SDE Aspirant
+</h3>
 
-### 👋 Hi, I'm Deep Kevadiya
-
-🎓 **Bachelor of Technology (ICT)**  
-**Pandit Deendayal Energy University (PDEU)**
-
-⭐ **Codeforces Pupil** • 💻 **Full Stack Developer** • 🚀 **Software Development Engineer Aspirant**
-
-</div>
+<p align="center">
+🎓 B.Tech in Information & Communication Technology (ICT) <br>
+Pandit Deendayal Energy University (PDEU)
+</p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech ICT @ PDEU
+- 🎓 Third-year ICT student at PDEU
 - ⭐ Codeforces Pupil
-- 🔥 Solved **500+ DSA & Competitive Programming Problems**
-- 💻 Learning **Full Stack Development**
-- 🤖 Exploring **AI Agents & Automation**
-- 🎯 Goal: Become a Software Development Engineer
+- 🔥 Solved **500+** DSA & Competitive Programming problems
+- 💻 Building scalable MERN applications
+- 🤖 Exploring AI Agents & Automation
+- 🎯 Looking for Software Development Engineering internships
 
 ---
 
@@ -35,19 +37,19 @@
 <p align="center">
 
 <a href="mailto:deepkevadiya18@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-<a href="https://codeforces.com/profile/deepx241">
-<img src="https://cdn.simpleicons.org/codeforces/58A6FF" height="55"/>
-</a>
-
-<a href="https://leetcode.com/u/deep__18/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 <a href="https://github.com/Deepx241">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://codeforces.com/profile/deepx241">
+<img src="https://cdn.simpleicons.org/codeforces/58A6FF" height="48"/>
+</a>
+
+<a href="https://leetcode.com/u/deep__18/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
 
 </p>
@@ -58,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,git,github,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git&perline=4"/>
 
 </p>
 
@@ -74,21 +76,9 @@
 
 </p>
 
----
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepx241&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepx241&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepx241&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -104,82 +94,56 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Competitive Programming
 
-<p align="center">
+⭐ **Codeforces Pupil**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+🔥 **500+ Problems Solved**
 
-</p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow to generate automatically.
+🚀 Regular Codeforces & LeetCode Contest Participant
 
 ---
 
 # 🚀 Featured Projects
 
-## 📝 BlogPort
-
-A full-stack blogging platform with authentication, rich content management, REST APIs and MongoDB.
-
----
-
-## 💬 Chirp
-
-Real-time chat application built using Socket.IO, MERN Stack and MongoDB.
+### 📝 BlogPort
+> Full-stack blogging platform with authentication, REST APIs and MongoDB.
 
 ---
 
-## 🤖 AI Resume Builder
-
-An AI-powered resume builder with ATS analysis and resume generation.
+### 💬 Chirp
+> Real-time chat application using Socket.IO and the MERN stack.
 
 ---
 
-# 💡 Current Focus
+### 🤖 AI Resume Builder
+> AI-powered resume builder with ATS analysis and resume generation.
+
+---
+
+# 📌 Currently Working On
 
 ```text
-Competitive Programming ███████████░░ 85%
-
-Full Stack Development  █████████░░░░ 70%
-
-System Design           ██████░░░░░░░ 45%
-
-AI Agents               █████░░░░░░░░ 35%
+🟢 Competitive Programming
+🟢 Full Stack Development
+🟢 AI Agents & Automation
+🟢 Backend Development
 ```
 
 ---
 
-# 📫 Let's Connect
+# 💭 Quote
 
-<p align="center">
-
-<a href="mailto:deepkevadiya18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/deepx241">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/deep__18/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Deepx241">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+> *"Consistency beats intensity."*
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Deepx241&style=for-the-badge&color=58A6FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2563EB&height=2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀"/>
 
 </div>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
