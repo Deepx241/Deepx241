@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter"/>
@@ -41,14 +42,15 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 - 🎓 Third-Year ICT Student at PDEU
 - ⭐ Codeforces **Pupil**
 - 🔥 Solved **500+** DSA & Competitive Programming Problems
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring AI & Automation
-- 🚀 Building scalable web applications
+- 💻 Passionate Full Stack Developer
+- 💬 Currently building **Flux Chat**, a modern real-time messaging platform
+- 🚀 Building scalable Full Stack applications
+- 🤖 Exploring AI, Automation & Modern Web Technologies
 - 🎯 Aspiring Software Development Engineer
 
 ---
@@ -73,10 +75,10 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 </p>
 
 ---
@@ -109,57 +111,73 @@
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 💬 Flux Chat
+
+A modern real-time messaging application built using the **MERN Stack** with secure authentication, instant messaging, image sharing, online presence, and a clean responsive interface.
+
+### ✨ Features
+
+- ⚡ Real-Time Messaging with Socket.IO
+- 🔐 JWT Authentication
+- 👤 Secure User Login & Registration
+- 🟢 Online / Offline User Status
+- 🖼️ Image Sharing with Cloudinary
+- 💬 One-to-One Conversations
+- 📱 Responsive Modern UI
+- 🌙 Beautiful Dashboard Layout
+- ☁️ MongoDB Atlas Integration
+- 🚀 RESTful Backend Architecture
+
+### 🛠 Tech Stack
+
+`React (Vite)` • `Tailwind CSS` • `shadcn/ui` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Socket.IO` • `JWT` • `Cloudinary`
+
+🌐 **Live Demo:** *Coming Soon*
+
+📂 **Repository:** https://github.com/Deepx241/flux-chat
+
+---
 
 ## 📌 Problem Tracker
 
-A modern full-stack application for tracking coding problems solved across **LeetCode**, **Codeforces**, **GeeksforGeeks**, and other platforms.
+A full-stack dashboard that helps developers organize and track coding problems solved across platforms like **LeetCode**, **Codeforces**, and **GeeksforGeeks**.
 
-### ✨ Highlights
+### ✨ Features
 
 - 🔐 JWT Authentication
 - 📝 CRUD Operations
 - 🔎 Smart Search
 - 🎯 Advanced Filters
-- 📊 Sorting
-- 📄 Pagination
-- 📱 Fully Responsive UI
+- 📊 Sorting & Pagination
+- 📱 Responsive Dashboard
 - ☁️ MongoDB Integration
-- ⚡ RESTful API
+- ⚡ RESTful APIs
 
-### 🛠 Built With
+### 🛠 Tech Stack
 
-`Next.js` • `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `JWT` • `Axios`
+`Next.js` • `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `JWT`
 
-> 🌐 **Live Demo:** *Coming Soon*
+🌐 **Live Demo:** *Coming Soon*
 
-> 📂 **Repository:** *Pinned Below*
+📂 **Repository:** https://github.com/Deepx241/problem-tracker
 
 ---
-
-# 📦 Other Projects
 
 ## 📝 BlogPort
 
-A full-stack blogging platform featuring authentication, CRUD operations, REST APIs and MongoDB integration.
+A modern blogging platform featuring secure authentication, REST APIs, CRUD operations, responsive UI, and MongoDB integration.
 
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-## 💬 Chirp
-
-Real-time chat application built using Socket.IO with authentication and instant messaging.
-
-**Tech:** MERN • Socket.IO
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT
 
 ---
 
 ## 🤖 AI Resume Builder
 
-AI-powered resume builder with ATS score analysis and intelligent resume generation.
+An AI-powered resume builder capable of generating ATS-friendly resumes with intelligent suggestions and professional templates.
 
-**Tech:** React • Node.js • MongoDB • OpenAI API
+**Tech Stack:** React • Node.js • MongoDB • OpenAI API
 
 ---
 
@@ -177,11 +195,12 @@ AI-powered resume builder with ATS score analysis and intelligent resume generat
 
 # 🎯 2026 Goals
 
-- 🚀 Reach **Specialist** on Codeforces
-- 💻 Build more production-ready Full Stack Projects
-- ☁️ Learn Cloud & DevOps
-- 🧠 Strengthen Backend Development
-- 🎯 Crack an SDE Internship
+- ⭐ Reach **Specialist** on Codeforces
+- 🚀 Launch **Flux Chat**
+- 💻 Build more production-ready Full Stack applications
+- ☁️ Learn Docker & Cloud Technologies
+- 🧠 Strengthen Backend & System Design
+- 🎯 Crack a Top SDE Internship
 
 ---
 
@@ -219,8 +238,9 @@ AI-powered resume builder with ATS score analysis and intelligent resume generat
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Keep+Learning!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Let's+Build+Something+Awesome!"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
+```
