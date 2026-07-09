@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter"/>
@@ -11,7 +10,7 @@
 
 ### Competitive Programmer • Full Stack Developer • SDE Aspirant
 
-🎓 **B.Tech in Information & Communication Technology (ICT)**  
+🎓 **B.Tech in Information & Communication Technology (ICT)**
 **Pandit Deendayal Energy University (PDEU)**
 
 <p>
@@ -38,20 +37,38 @@
 
 </p>
 
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=Deepx241&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Deepx241?style=for-the-badge&logo=github"/>
+
+</p>
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Third-Year ICT Student at PDEU
-- ⭐ Codeforces **Pupil**
-- 🔥 Solved **500+** DSA & Competitive Programming Problems
-- 💻 Passionate Full Stack Developer
-- 💬 Currently building **Flux Chat**, a modern real-time messaging platform
-- 🚀 Building scalable Full Stack applications
-- 🤖 Exploring AI, Automation & Modern Web Technologies
-- 🎯 Aspiring Software Development Engineer
+* 🎓 Third-Year ICT Student at PDEU
+* ⭐ Codeforces **Pupil**
+* 🔥 Solved **500+** DSA & Competitive Programming Problems
+* 💻 Passionate Full Stack Developer
+* 💬 Currently building **Flux Chat**
+* 🚀 Building scalable Full Stack applications
+* 🤖 Exploring AI, Automation & Modern Web Technologies
+* 📈 Learning Backend Engineering & System Design
+* 🎯 Aspiring Software Development Engineer
+
+---
+
+# 🌱 Currently Working On
+
+* 💬 Flux Chat – Real-Time Chat Platform
+* 📚 Advanced Data Structures & Algorithms
+* ⭐ Improving Codeforces Rating
+* ☁️ Backend Development & System Design
 
 ---
 
@@ -75,11 +92,15 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 </p>
+
+### Core Skills
+
+`Data Structures` • `Algorithms` • `REST APIs` • `Authentication` • `Socket.IO` • `Responsive UI`
 
 ---
 
@@ -115,24 +136,23 @@
 
 ## 💬 Flux Chat
 
-A modern real-time messaging application built using the **MERN Stack** with secure authentication, instant messaging, image sharing, online presence, and a clean responsive interface.
+A modern real-time messaging platform built with the **MERN Stack**, featuring secure authentication, instant messaging, image sharing, online presence, and a sleek responsive interface.
 
-### ✨ Features
+### ✨ Key Features
 
-- ⚡ Real-Time Messaging with Socket.IO
-- 🔐 JWT Authentication
-- 👤 Secure User Login & Registration
-- 🟢 Online / Offline User Status
-- 🖼️ Image Sharing with Cloudinary
-- 💬 One-to-One Conversations
-- 📱 Responsive Modern UI
-- 🌙 Beautiful Dashboard Layout
-- ☁️ MongoDB Atlas Integration
-- 🚀 RESTful Backend Architecture
+* ⚡ Real-time Messaging with Socket.IO
+* 🔐 JWT Authentication
+* 👤 Secure Login & Registration
+* 🟢 Live Online/Offline Presence
+* 🖼️ Image Sharing with Cloudinary
+* 💬 One-to-One Conversations
+* 📱 Fully Responsive Design
+* ☁️ MongoDB Atlas Integration
+* 🚀 RESTful Backend Architecture
 
-### 🛠 Tech Stack
+### 🛠 Built With
 
-`React (Vite)` • `Tailwind CSS` • `shadcn/ui` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Socket.IO` • `JWT` • `Cloudinary`
+`React (Vite)` • `Tailwind CSS` • `shadcn/ui` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `JWT` • `Cloudinary`
 
 🌐 **Live Demo:** *Coming Soon*
 
@@ -142,20 +162,18 @@ A modern real-time messaging application built using the **MERN Stack** with sec
 
 ## 📌 Problem Tracker
 
-A full-stack dashboard that helps developers organize and track coding problems solved across platforms like **LeetCode**, **Codeforces**, and **GeeksforGeeks**.
+A full-stack dashboard for tracking coding progress across LeetCode, Codeforces and other competitive programming platforms.
 
 ### ✨ Features
 
-- 🔐 JWT Authentication
-- 📝 CRUD Operations
-- 🔎 Smart Search
-- 🎯 Advanced Filters
-- 📊 Sorting & Pagination
-- 📱 Responsive Dashboard
-- ☁️ MongoDB Integration
-- ⚡ RESTful APIs
+* 🔐 JWT Authentication
+* 📝 CRUD Operations
+* 🔎 Smart Search
+* 🎯 Advanced Filters
+* 📊 Sorting & Pagination
+* 📱 Responsive UI
 
-### 🛠 Tech Stack
+### 🛠 Built With
 
 `Next.js` • `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `JWT`
 
@@ -164,43 +182,69 @@ A full-stack dashboard that helps developers organize and track coding problems 
 📂 **Repository:** https://github.com/Deepx241/problem-tracker
 
 ---
-
 ## 📝 BlogPort
 
-A modern blogging platform featuring secure authentication, REST APIs, CRUD operations, responsive UI, and MongoDB integration.
+A modern full-stack blogging platform where users can create, edit, publish, and manage blogs with secure authentication and a responsive user experience.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
+### ✨ Features
+
+* 🔐 User Authentication
+* ✍️ Create, Edit & Delete Blogs
+* 📖 Rich Reading Experience
+* 📱 Responsive Design
+* ☁️ MongoDB Database
+* ⚡ RESTful APIs
+
+### 🛠 Built With
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+
+🌐 **Live Demo:** *Coming Soon*
 
 ---
 
 ## 🤖 AI Resume Builder
 
-An AI-powered resume builder capable of generating ATS-friendly resumes with intelligent suggestions and professional templates.
+An AI-powered resume builder that generates professional, ATS-friendly resumes with intelligent suggestions and modern templates.
 
-**Tech Stack:** React • Node.js • MongoDB • OpenAI API
+### ✨ Features
+
+* 🤖 AI-Assisted Resume Generation
+* 📄 ATS-Friendly Templates
+* ⚡ Fast Resume Creation
+* 🎨 Modern UI
+* 📥 Resume Export
+
+### 🛠 Built With
+
+`React` • `Node.js` • `MongoDB` • `OpenAI API`
+
+🌐 **Live Demo:** *Coming Soon*
 
 ---
 
 # 🏆 Competitive Programming
 
-⭐ **Codeforces Pupil**
-
-🔥 **500+ Problems Solved**
-
-🚀 Regular participant in Codeforces & LeetCode Contests
-
-💡 Strong foundation in Data Structures & Algorithms
+* ⭐ **Codeforces:** Pupil
+* 🔥 **500+ Problems Solved**
+* 🚀 Active participant in Codeforces & LeetCode contests
+* 💡 Strong foundation in Data Structures & Algorithms
+* 📚 Continuously improving problem-solving and algorithmic thinking
 
 ---
 
 # 🎯 2026 Goals
 
-- ⭐ Reach **Specialist** on Codeforces
-- 🚀 Launch **Flux Chat**
-- 💻 Build more production-ready Full Stack applications
-- ☁️ Learn Docker & Cloud Technologies
-- 🧠 Strengthen Backend & System Design
-- 🎯 Crack a Top SDE Internship
+* ⭐ Reach **Specialist** on Codeforces
+* 💬 Launch **Flux Chat**
+* 🚀 Build more production-ready Full Stack applications
+* ☁️ Learn Docker, AWS & Cloud Technologies
+* 🧠 Master Backend Development & System Design
+* 🎯 Secure a Software Development Engineer Internship
+
+---
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
@@ -232,15 +276,24 @@ An AI-powered resume builder capable of generating ATS-friendly resumes with int
 
 ---
 
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deepx241&theme=algolia&no-frame=true&margin-w=12&row=1&column=6"/>
+
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Deepx241&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Always+Learning,+Always+Building.;See+you+in+the+next+commit!"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Let's+Build+Something+Awesome!"/>
+⭐ **If you like my work, consider following me and checking out my repositories!**
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
-```
