@@ -1,299 +1,394 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DEEP%20KEVADIYA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20COMPETITIVE%20PROGRAMMER&descAlignY=58&descSize=18&color=0:0D1117,45:172554,100:2563EB&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+real-world+web+applications+%F0%9F%9A%80;Solving+problems+with+DSA+%F0%9F%A7%A0;Learning+Backend+Engineering+%26+System+Design;Turning+ideas+into+working+software"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Deep%20Kevadiya&fontSize=55&fontColor=ffffff&color=0:0D1117,100:2563EB&animation=fadeIn"/>
-
-# Hi 👋 I'm Deep Kevadiya
-
-### Competitive Programmer • Full Stack Developer • SDE Aspirant
-
-🎓 **B.Tech in Information & Communication Technology (ICT)**
-**Pandit Deendayal Energy University (PDEU)**
-
-<p>
-
 <a href="mailto:deepkevadiya18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Deepx241">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Deepx241-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/deep-kevadiya-690303322">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://codeforces.com/profile/deepx241">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/deep__18/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+<br><br>
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=Deepx241&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Deepx241?style=for-the-badge&logo=github"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=Deepx241&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Deepx241?label=FOLLOWERS&style=flat-square&logo=github"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👋 About Me
 
-* 🎓 Third-Year ICT Student at PDEU
-* ⭐ Codeforces **Pupil**
-* 🔥 Solved **500+** DSA & Competitive Programming Problems
-* 💻 Passionate Full Stack Developer
-* 💬 Currently building **Flux Chat**
-* 🚀 Building scalable Full Stack applications
-* 🤖 Exploring AI, Automation & Modern Web Technologies
-* 📈 Learning Backend Engineering & System Design
-* 🎯 Aspiring Software Development Engineer
+<table>
+<tr>
+<td width="55%">
 
----
+### Hey, I'm Deep 👨‍💻
 
-# 🌱 Currently Working On
+I'm a **third-year ICT student at Pandit Deendayal Energy University (PDEU)** passionate about building useful software and solving challenging problems.
 
-* 💬 Flux Chat – Real-Time Chat Platform
-* 📚 Advanced Data Structures & Algorithms
-* ⭐ Improving Codeforces Rating
-* ☁️ Backend Development & System Design
+I enjoy working across the stack — from **responsive interfaces and APIs to databases, authentication and real-time systems**.
 
----
+I'm currently focused on becoming a stronger **Software Development Engineer** through consistent DSA practice and building real-world applications.
 
-# 💻 Tech Stack
+</td>
 
-### Languages
+<td width="45%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts"/>
-</p>
+### ⚡ Quick Snapshot
 
-### Frontend
+🎓 **ICT @ PDEU**
+⭐ **Codeforces Pupil**
+🔥 **500+ DSA Problems**
+💻 **Full Stack Developer**
+🧠 **DSA & System Design**
+🚀 **Real-world Projects**
+🤖 **AI & Automation Explorer**
+🎯 **SDE Aspirant**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
-</p>
-
-### Core Skills
-
-`Data Structures` • `Algorithms` • `REST APIs` • `Authentication` • `Socket.IO` • `Responsive UI`
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Featured Project
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepx241&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+# 🎓 CollegeIQ
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepx241&layout=compact&theme=github_dark&hide_border=true"/>
+### **College Discovery • Comparison • Reviews**
 
-</p>
+*A full-stack platform designed to help students explore and compare colleges through structured information, courses, fees, placements, ratings and reviews.*
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepx241&theme=github-dark-blue&hide_border=true"/>
+<img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-</p>
+</div>
+
+### ✨ What makes it interesting
+
+|      🔎 Discovery      |  📚 Academic Data |       ⭐ Community      |
+| :--------------------: | :---------------: | :--------------------: |
+|    Explore colleges    |   Courses & fees  |    Ratings & reviews   |
+| Structured information | Placement details | User-generated content |
+
+### 🧩 Core Functionality
+
+* 🏫 **College discovery** — browse and explore college information
+* 🔍 **Structured college details** — organized data for easier comparison
+* 📚 **Course information** — courses and related fee information
+* 💼 **Placement information** — present important career-related data
+* ⭐ **Ratings & reviews** — allow users to interact with college information
+* 👤 **User-oriented functionality** — database-backed user interactions
+* 📱 **Responsive UI** — designed for different screen sizes
+* 🗄️ **Relational data model** — structured relationships between colleges, courses, users and reviews
+
+### 🏗️ Architecture
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                    COLLEGEIQ                         │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│        Next.js + React + TypeScript                  │
+│                         │                            │
+│                         ▼                            │
+│              Application / Server Logic              │
+│                         │                            │
+│                         ▼                            │
+│                   Prisma ORM                         │
+│                         │                            │
+│                         ▼                            │
+│                    PostgreSQL                        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+### 🗃️ Data Model
+
+```text
+                    ┌─────────────┐
+                    │   College   │
+                    └──────┬──────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+       ┌──────────┐   ┌──────────┐   ┌──────────┐
+       │  Course  │   │  Review  │   │  User    │
+       └──────────┘   └─────┬────┘   └──────────┘
+                            │
+                            └──── User interaction
+```
+
+> **Built with a focus on clean architecture, structured data, responsive UI and real-world application flow.**
 
 ---
 
-# 📈 Contribution Graph
+# 💻 Other Projects
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepx241&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 💬 Flux Chat
 
-A modern real-time messaging platform built with the **MERN Stack**, featuring secure authentication, instant messaging, image sharing, online presence, and a sleek responsive interface.
+A modern real-time messaging platform built with the **MERN stack**, focused on instant communication and responsive UX.
 
-### ✨ Key Features
+### Highlights
 
-* ⚡ Real-time Messaging with Socket.IO
-* 🔐 JWT Authentication
-* 👤 Secure Login & Registration
-* 🟢 Live Online/Offline Presence
-* 🖼️ Image Sharing with Cloudinary
-* 💬 One-to-One Conversations
-* 📱 Fully Responsive Design
-* ☁️ MongoDB Atlas Integration
-* 🚀 RESTful Backend Architecture
+* ⚡ Socket.IO real-time messaging
+* 🔐 JWT authentication
+* 🟢 Online/offline presence
+* 🖼️ Cloudinary image sharing
+* 💬 One-to-one conversations
+* 📱 Responsive interface
+* ☁️ MongoDB Atlas
+* 🚀 RESTful backend
 
-### 🛠 Built With
+**Stack**
 
-`React (Vite)` • `Tailwind CSS` • `shadcn/ui` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `JWT` • `Cloudinary`
+`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `Cloudinary`
 
-🌐 **Live Demo:** *Coming Soon*
+<br>
 
-📂 **Repository:** https://github.com/Deepx241/flux-chat
+📂 **[View Repository →](https://github.com/Deepx241/flux-chat)**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 📌 Problem Tracker
 
-A full-stack dashboard for tracking coding progress across LeetCode, Codeforces and other competitive programming platforms.
+A full-stack dashboard for tracking coding progress across **LeetCode, Codeforces and other platforms**.
 
-### ✨ Features
+### Highlights
 
-* 🔐 JWT Authentication
-* 📝 CRUD Operations
-* 🔎 Smart Search
-* 🎯 Advanced Filters
-* 📊 Sorting & Pagination
+* 🔐 JWT authentication
+* 📝 CRUD operations
+* 🔎 Smart search
+* 🎯 Advanced filters
+* 📊 Sorting & pagination
 * 📱 Responsive UI
 
-### 🛠 Built With
+**Stack**
 
-`Next.js` • `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `JWT`
+`Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` `JWT`
 
-🌐 **Live Demo:** *Coming Soon*
+<br>
 
-📂 **Repository:** https://github.com/Deepx241/problem-tracker
+📂 **[View Repository →](https://github.com/Deepx241/problem-tracker)**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ## 📝 BlogPort
 
-A modern full-stack blogging platform where users can create, edit, publish, and manage blogs with secure authentication and a responsive user experience.
+A full-stack blogging platform for creating, editing, publishing and managing blogs.
 
-### ✨ Features
+### Highlights
 
-* 🔐 User Authentication
-* ✍️ Create, Edit & Delete Blogs
-* 📖 Rich Reading Experience
-* 📱 Responsive Design
-* ☁️ MongoDB Database
-* ⚡ RESTful APIs
+* 🔐 Authentication
+* ✍️ Blog CRUD
+* 📖 Reading experience
+* 📱 Responsive design
+* ☁️ MongoDB
+* ⚡ REST APIs
 
-### 🛠 Built With
+**Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
-🌐 **Live Demo:** *Coming Soon*
+</td>
 
----
+<td width="50%" valign="top">
 
 ## 🤖 AI Resume Builder
 
-An AI-powered resume builder that generates professional, ATS-friendly resumes with intelligent suggestions and modern templates.
+An AI-powered resume builder focused on generating **professional, ATS-friendly resumes** with intelligent suggestions.
 
-### ✨ Features
+### Highlights
 
-* 🤖 AI-Assisted Resume Generation
-* 📄 ATS-Friendly Templates
-* ⚡ Fast Resume Creation
+* 🤖 AI-assisted generation
+* 📄 ATS-friendly templates
+* ⚡ Fast creation
 * 🎨 Modern UI
-* 📥 Resume Export
+* 📥 Resume export
 
-### 🛠 Built With
+**Stack**
 
-`React` • `Node.js` • `MongoDB` • `OpenAI API`
+`React` `Node.js` `MongoDB` `OpenAI API`
 
-🌐 **Live Demo:** *Coming Soon*
-
----
-
-# 🏆 Competitive Programming
-
-* ⭐ **Codeforces:** Pupil
-* 🔥 **500+ Problems Solved**
-* 🚀 Active participant in Codeforces & LeetCode contests
-* 💡 Strong foundation in Data Structures & Algorithms
-* 📚 Continuously improving problem-solving and algorithmic thinking
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 2026 Goals
+# 🛠️ Tech Stack
 
-* ⭐ Reach **Specialist** on Codeforces
-* 💬 Launch **Flux Chat**
-* 🚀 Build more production-ready Full Stack applications
-* ☁️ Learn Docker, AWS & Cloud Technologies
-* 🧠 Master Backend Development & System Design
-* 🎯 Secure a Software Development Engineer Internship
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+<br><br>
+
+`Data Structures` `Algorithms` `REST APIs` `Authentication` `Socket.IO` `Database Design` `Responsive UI` `Backend Development`
+
+</div>
 
 ---
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+# 🧠 Competitive Programming
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:deepkevadiya18@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/Deepx241">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deep-kevadiya-690303322">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+<div align="center">
 
 <a href="https://codeforces.com/profile/deepx241">
-<img src="https://cdn.simpleicons.org/codeforces/58A6FF" height="50"/>
+<img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
+<img src="https://img.shields.io/badge/500%2B-Problems%20Solved-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</div>
+
+<br>
+
+* ⭐ **Codeforces Pupil**
+* 🔥 **500+ DSA & Competitive Programming problems solved**
+* 🚀 Active practice across Codeforces & LeetCode
+* 🧩 Strong foundation in algorithms and problem solving
+* 📈 Continuously improving competitive programming rating
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepx241&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepx241&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepx241&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepx241&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+<div align="center">
+
+| Goal                        | Focus                   |
+| :-------------------------- | :---------------------- |
+| ⭐ **Codeforces Specialist** | Competitive Programming |
+| 🚀 **Production Projects**  | Full Stack Development  |
+| ☁️ **Cloud & DevOps**       | Docker • AWS            |
+| 🧠 **System Design**        | Backend Engineering     |
+| 💬 **Real-Time Systems**    | Scalable Applications   |
+| 🎯 **SDE Internship**       | Industry Experience     |
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:deepkevadiya18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Deepx241">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/deep-kevadiya-690303322">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/deepx241">
+<img src="https://cdn.simpleicons.org/codeforces/58A6FF" height="48"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/deep__18/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
 
-</p>
+<br><br>
+
+**Open to learning, building, collaborating and solving interesting problems.**
+
+</div>
 
 ---
 
 # 🏅 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Deepx241&theme=algolia&no-frame=true&margin-w=12&row=1&column=6"/>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Always+Learning,+Always+Building.;See+you+in+the+next+commit!"/>
+### 💙 Thanks for visiting!
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1300&color=58A6FF&center=true&vCenter=true&width=650&lines=Build+%E2%80%A2+Break+%E2%80%A2+Learn+%E2%80%A2+Repeat;One+problem+at+a+time.;One+project+at+a+time.;See+you+in+the+next+commit!+%F0%9F%9A%80"/>
 
-⭐ **If you like my work, consider following me and checking out my repositories!**
+<br>
+
+⭐ **Explore my repositories • Follow my journey • Let's build something great**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=130&section=footer"/>
